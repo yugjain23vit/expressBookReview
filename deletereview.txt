@@ -1,0 +1,5 @@
+curl -X DELETE http://localhost:5000/books/review/12345
+
+{
+  "message": "Review deleted successfully"
+}
