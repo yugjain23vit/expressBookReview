@@ -1,0 +1,9 @@
+curl http://localhost:5000/books/title/The%20Great%20Gatsby
+
+{
+  "12345": {
+    "author": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby",
+    "reviews": {}
+  }
+}
