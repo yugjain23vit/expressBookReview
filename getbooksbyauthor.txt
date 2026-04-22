@@ -1,0 +1,9 @@
+curl http://localhost:5000/books/author/Harper%20Lee
+
+{
+  "67890": {
+    "author": "Harper Lee",
+    "title": "To Kill a Mockingbird",
+    "reviews": {}
+  }
+}
